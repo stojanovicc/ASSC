@@ -98,11 +98,17 @@ Aplikacija je implementirana kao client-server sistem:
 ## ⚙️ Running the Application
 
 ### 🔹 Backend
-
 ```bash
 cd backend
 dotnet restore
 dotnet run
+```
+
+### 🔹 Frontend
+```bash
+npm install
+npm start
+```
 
 ---
 
