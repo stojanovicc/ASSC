@@ -104,6 +104,8 @@ cd backend
 dotnet restore
 dotnet run
 
+---
 
-
- 
+## 👩‍💻 Autori
+- Anđela Stojanović
+- Anastasija Trajković
